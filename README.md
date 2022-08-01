@@ -14,9 +14,6 @@ Plotly and Belly Button Biodiversity
 ## Overview
 Using bacterial data collected from volunteers, the goal is to complete a dashboard panel with demographic information. Specifically, the volunteers can identify the top 10 bacterial species in their belly buttons. 
 
-## Website
-Interactive Webpage can be found here: 
-https://GRennie8.github.io/Plotly_Biodiversity/
 
 ## Graphs created with Plotly
 1. Horizontal Bar graph
